@@ -9,6 +9,8 @@ client = Client(
         os.environ['AMANPURI_SECRET_KEY']
     )
 
+# API Document
+# https://api.amanpuri.io/api/docs/#info
 
 print('get_margin_indices_active')
 print(client.get_margin_indices_active().json())
