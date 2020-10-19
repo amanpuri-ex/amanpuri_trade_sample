@@ -1,7 +1,6 @@
 # amanpuri_trade_sample
-amanpuri exchange client class and sample program
 
-This is how to test on Amazon EC2 client.
+This is how to test sample program on Amazon EC2 client.
 
 **Install git and clone Repository**
 ```python
