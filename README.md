@@ -14,5 +14,9 @@ cd amanpuri_trade_sample
 ```python
 export AMANPURI_API_KEY=xxxxxxx
 export AMANPURI_SECRET_KEY=xxxxxxx
+```
+
+**Run sample program**
+```python
 python3 test_amanpuri.py
 ```
