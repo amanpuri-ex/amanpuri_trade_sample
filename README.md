@@ -7,6 +7,7 @@ This is how to test on Amazon EC2 client.
 ```python
 sudo yum install git
 git clone "https://github.com/amanpuri-ex/amanpuri_trade_sample.git"
+cd amanpuri_trade_sample
 ```
 
 **Set API_KEY and API_SECRET**
